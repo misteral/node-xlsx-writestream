@@ -109,7 +109,7 @@ module.exports =
         <si>
             <t>#{string}</t>
         </si>
-    """.replace(/\n\s*/g, '')
+    """
 
     stringsFooter: """
         </sst>
